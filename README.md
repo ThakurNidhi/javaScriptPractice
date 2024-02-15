@@ -1,0 +1,2 @@
+# javaScriptPractice
+js practice project
