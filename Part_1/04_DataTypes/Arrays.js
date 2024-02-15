@@ -6,7 +6,7 @@ let fruites = ["apple", "orange", " plum"];
 console.log("fruites list => " + fruites)
 console.log( fruites[0] ); 
 console.log( fruites[1] );
-
+git
 // Replace element in array
 
 fruites[2] ="Anarrrr";
