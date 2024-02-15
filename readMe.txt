@@ -1,0 +1,3 @@
+# mkdir foldername
+# touch fileName
+

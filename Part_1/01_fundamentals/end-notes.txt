@@ -1,0 +1,8 @@
+we can use <script> to add j code to page.
+type and langulage attribute is not required.
+external js file --> <script src="path/to/script.js"> </script>
+
+datatypes---> dynamically typed
+
+code--> prime and even number in js and in html with ui..
+practice functions tasks..
